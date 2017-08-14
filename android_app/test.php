@@ -14,6 +14,7 @@
 //    $cart_text= $row['cart'];
 //    echo $cart_text;
 //}
+//$cart_text="a:2:{s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwNDM7fQ==\";i:1;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwNDc7fQ==\";i:1;}";
 $cart_text="a:10:{s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwNDc7fQ==\";i:5;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwNDk7fQ==\";i:1;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwNDU7fQ==\";i:1;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwNDM7fQ==\";i:1;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwNDA7fQ==\";i:1;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwMTc7fQ==\";i:1;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwMDM7fQ==\";i:3;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjQ5ODY7fQ==\";i:1;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwMzk7fQ==\";i:1;s:44:\"YToxOntzOjEwOiJwcm9kdWN0X2lkIjtpOjUwMDc7fQ==\";i:1;}";
 $output_array=str_split($cart_text);
 $product_count="";
